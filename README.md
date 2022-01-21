@@ -4,4 +4,4 @@ Repository created to deploy the WebVR project from Holberton School. Check here
 
 ## ScreenShoot
 
-<img src="./webxr-capture-JPG" />
+<img src="./webxr-capture.JPG" />
