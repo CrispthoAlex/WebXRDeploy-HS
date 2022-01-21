@@ -25,13 +25,14 @@
         <button id="entervr" value="Enter VR" disabled>VR</button>
         <button id="enterar" value="Enter AR" disabled>AR</button>
         <div id="unity-webxr-link">Using <a href="https://github.com/De-Panther/unity-webxr-export" target="_blank" title="WebXR Export">WebXR Export</a></div>
-        <div id="unity-build-title">0x0E-unity-webvr</div>
+        <div id="unity-build-title">0x0E-unity-webvr - <a href="https://www.holbertonschool.com"  target="_blank" title="Holberton School">Holberton School</a> </div>
       </div>
     </div>
     <script>
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/Build.loader.js";
       var config = {
+	Content-Encoding: gzip,
         dataUrl: buildUrl + "/Build.data.unityweb",
         frameworkUrl: buildUrl + "/Build.framework.js.unityweb",
         codeUrl: buildUrl + "/Build.wasm.unityweb",
