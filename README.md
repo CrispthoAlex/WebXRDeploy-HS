@@ -2,9 +2,22 @@
 
 Repository created to deploy the WebVR project from Holberton School. Check here => https://github.com/CrispthoAlex/holbertonschool-unity/tree/main/0x0E-unity-webvr
 
-## ScreenShoot
 
-<img src="./webxr-capture.JPG" />
 
-## Demo
-https://user-images.githubusercontent.com/60373956/150612659-9121cf9f-feba-41fb-b9c2-737da5f1da77.mp4
+## Demo Video
+[![Demo Video](webxr-capture.JPG)](./DemoVideo_WebVR.mp4 "Click to Watch!")
+
+
+#### Follow me 💬
+
+| Author(s) | GitHub | Twitter | Linkedin |
+| :---: | :---: | :---: | :---: |
+| Crispthofer Rincon | [crispthoalex](https://github.com/crispthoalex) | [@crispthoalex](https://twitter.com/crispthoalex) | [carmurrain](https://www.linkedin.com/in/carmurrain) |
+
+### License
+*`0x0E. Unity - WebVR` is open source and therefore free to download and use without permission.*
+
+<a href="url"><img src="https://theme.zdassets.com/theme_assets/2439906/391a1b5058281ff9c224e2dadc38ea90659556ba.png" width="80" height="80"></a>
+
+##### Holberton School  Advanced Program  AR/VR
+##### January, 2022. Cali, Colombia
