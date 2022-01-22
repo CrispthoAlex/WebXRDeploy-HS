@@ -5,8 +5,10 @@ Repository created to deploy the WebVR project from Holberton School. Check here
 
 
 ## Demo Video
-[![Demo Video](webxr-capture.JPG)](./DemoVideo_WebVR.mp4 "Click to Watch!")
 
+<img src="./DemoVideo_WebVR.gif" width="750" height="auto" title="Enjoy it!!!">
+
+<br>
 
 #### Follow me 💬
 
